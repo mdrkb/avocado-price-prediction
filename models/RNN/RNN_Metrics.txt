@@ -1,0 +1,30 @@
+
+For Region - West
+  Loss is - 0.10039020515978336,
+  Mean Absolute Error is  -  0.27319944,
+  Mean Squared Error is  -  0.1003902,
+  Root Mean Squared Error is  -  0.31684414
+
+For Region - Northeast
+  Loss is - 0.1033446379005909,
+  Mean Absolute Error is  -  0.30181715,
+  Mean Squared Error is  -  0.103344634,
+  Root Mean Squared Error is  -  0.32147262
+
+For Region - Southeast
+  Loss is - 0.08874040096998215,
+  Mean Absolute Error is  -  0.27892983,
+  Mean Squared Error is  -  0.0887404,
+  Root Mean Squared Error is  -  0.2978933
+
+For Region - SouthCentral
+  Loss is - 0.011200444772839546,
+  Mean Absolute Error is  -  0.09301049,
+  Mean Squared Error is  -  0.011200444,
+  Root Mean Squared Error is  -  0.10583215
+
+For Region - Midsouth
+  Loss is - 0.0042495307279750705,
+  Mean Absolute Error is  -  0.03937044,
+  Mean Squared Error is  -  0.004249531,
+  Root Mean Squared Error is  -  0.06518842
